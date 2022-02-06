@@ -1,4 +1,4 @@
-package com.github.heqiao2010.lunar.demo;
+package lunardemo.src.main.java.com.github.heqiao2010.lunar.demo;//package com.github.heqiao2010.lunar.demo;
 
 import com.github.heqiao2010.lunar.LunarCalendar;
 
